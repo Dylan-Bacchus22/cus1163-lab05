@@ -7,7 +7,7 @@ public class MathCalculatorLab {
     // Simple class to hold calculation data (PROVIDED - DO NOT MODIFY)
     static class CalculatorBase {
         int n;
-        long result;
+        long result; 
 
         public CalculatorBase(int n) {
             this.n = n;
